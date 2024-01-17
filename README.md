@@ -1,4 +1,4 @@
-# notesapp
+# Notes App x Flutter x Firebase
 
 A new Flutter project.
 
